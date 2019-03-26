@@ -7,3 +7,5 @@ Course Description:
 This course is an introduction to computing and programming. One goal is to introduce you to the basic concepts of computation and the principles of problem solving through programming. The other goal is to ensure that you have the necessary knowlege and skills that are required by subsequent ALIGN courses.
 
 Course Link: http://www.ccis.northeastern.edu/home/pgust/classes/cs5001/2018/Fall/index.html
+
+This course is taught by Phil Gust. 
